@@ -8,8 +8,7 @@ class BlogsController < ApplicationController
     @blogs = BlogApp.new
   end
 
-def edit
-end
-
-
+  def edit
+  end
+  
 end
